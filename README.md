@@ -1,12 +1,11 @@
-<p>
-    <pre align="center">
+```
     __  __     ____                             __    ____
    / / / /__  / / /___     _      ______  _____/ /___/ / /
   / /_/ / _ \/ / / __ \   | | /| / / __ \/ ___/ / __  / / 
  / __  /  __/ / / /_/ /   | |/ |/ / /_/ / /  / / /_/ /_/  
 /_/ /_/\___/_/_/\____/    |__/|__/\____/_/  /_/\__,_(_)
-    </pre>
-</p>
+
+```
 👋🏻 Je suis un développeur PHP expérimenté avec une forte expertise dans le framework Symfony<br>
 👨🏻 J'ai une grande capacité d'adaptation et je m'intègre rapidement aux équipes de développement<br>
 🦾 Grâce à mon solide savoir-faire technique je suis en mesure de créer des applications web performantes et fiables<br>
