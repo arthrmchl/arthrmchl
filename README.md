@@ -6,10 +6,10 @@
 /_/ /_/\___/_/_/\____/    |__/|__/\____/_/  /_/\__,_(_)
 
 ```
-👋🏻 Je suis un développeur PHP expérimenté avec une forte expertise dans le framework Symfony<br>
-👨🏻 J'ai une grande capacité d'adaptation et je m'intègre rapidement aux équipes de développement<br>
-🦾 Grâce à mon solide savoir-faire technique je suis en mesure de créer des applications web performantes et fiables<br>
-👀 Je suis toujours à l'affût des dernières tendances technologiques pour maintenir mes compétences à jour et proposer des solutions innovantes à mes clients
+👋🏻 Développeur PHP/Symfony expérimenté, je combine une expertise technique solide avec une capacité à m’adapter rapidement aux défis et aux équipes.</br>
+🦾 Mon savoir-faire couvre la conception d’applications web performantes, les migrations techniques (comme PHP 7.4 → 8.3), et l’optimisation des pratiques de développement pour garantir des solutions fiables et innovantes.</br>
+👨🏻 En tant que Lead Developer, j’ai piloté des analyses techniques, accompagné des équipes, et participé activement aux recrutements pour renforcer les compétences collectives.</br>
+👀 Toujours à l’affût des dernières tendances, je m’engage à aligner les objectifs métiers avec les meilleures pratiques, tout en cultivant une culture d’amélioration continue et d’adaptation aux enjeux technologiques.
 
 # Mes compétences
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
